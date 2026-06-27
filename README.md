@@ -1,0 +1,1 @@
+I developed a deepfake detector under the Inspirit AI Scholars program! This model can detect AI-generated images with an 86% accuracy! You can access and try out my app by going to "The Actual App" file. Copy paste the link into your browser and test it!
